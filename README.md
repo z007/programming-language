@@ -9,4 +9,4 @@
  * 你从别人copy code  要事先准备一个ASII  xx.java  file 把代码复制进去 ok
  * Notepad++ 编辑器 可将代码原格式 样式copy 进来 ，（notepad 默认 ASII）
  * [java中文乱码问题](http://blog.csdn.net/liyong199012/article/details/9086559)
- * [java cmd 编译 以及打包](http://www.cnblogs.com/itech/archive/2010/04/06/1705556.html)
+ * [java cmd 编译 以及打包 jar war ear](http://www.cnblogs.com/itech/archive/2010/04/06/1705556.html)
