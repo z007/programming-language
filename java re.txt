@@ -1,0 +1,7 @@
+CLASSPATH
+.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar
+JAVA_HOME
+C:\Program Files\java\jdk1.8.0_31
+%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
+
+%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;C:\Python27;C:\Python27\Scripts
